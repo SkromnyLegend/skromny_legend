@@ -4,3 +4,8 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+.ss{
+    width: 100px;
+    height: 100px;
+    background: pink;
+}
